@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/final/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/abdallah/Desktop/55 Es3af/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/abdallah/Desktop/55es3af_Home-master/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/abdallah/Desktop/55es3af_Home-master/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

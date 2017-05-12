@@ -1,0 +1,7 @@
+#Thu May 11 13:01:24 EET 2017
+base.0=/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex
+base.1=/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/media/mohammed/New Volume/FCI/SWE/Project/finalest/55 Es3af/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
